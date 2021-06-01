@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: osrframework
+Version: 0.20.4
+Summary: OSRFramework - A set of AGPLv3+ OSINT tools developed by i3visio analysts for online research.
+Home-page: http://github.com/i3visio/osrframework
+Author: Felix Brezo and Yaiza Rubio
+Author-email: contacto@i3visio.com
+License: COPYING
+Description: UNKNOWN
+Keywords: python osint harvesting profiling username socialmedia forums
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: Software Development :: Libraries
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Telecommunications Industry
+Classifier: Natural Language :: English
+Classifier: Topic :: Communications
+Classifier: Topic :: Internet :: WWW/HTTP :: Indexing/Search
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Classifier: Topic :: Text Processing :: Markup :: HTML
+Description-Content-Type: text/markdown
