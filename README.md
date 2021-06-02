@@ -31,8 +31,6 @@ This is free software, and you are welcome to redistribute it under certain cond
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-For more details on this issue, check the [COPYING](COPYING) file.
-
 3 - Installation
 ----------------
 
